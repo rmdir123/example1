@@ -1,1 +1,1 @@
-print("Whoever move first is jame")
+print("Whoever move first is jamepedo")
